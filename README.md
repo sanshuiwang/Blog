@@ -3,4 +3,4 @@
 
 1. [ECMAScript 6](https://github.com/sanshuiwang/ES6/issues/1)
 
-2. [React 系统学习笔记]()
+2. [React 系统学习笔记](https://github.com/sanshuiwang/Blog/issues/2)
