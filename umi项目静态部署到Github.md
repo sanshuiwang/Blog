@@ -30,5 +30,7 @@ publicPath: '/umi-hero/',
 第五步：在自己的项目中执行 yarn run deploy
 
 项目: https://github.com/sanshuiwang/umi-hero
+
 访问: https://sanshuiwang.github.io/umi-hero/
+
 访问: https://[自己的github名字].github.io/[项目名称]/
